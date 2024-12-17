@@ -1,5 +1,3 @@
-This is a simple React-Redux project demonstrating state management using Redux Toolkit. The app allows users to create a bank customer, deposit or withdraw money, and request loans.
-
 ✨ Features
 Create New Customer: Add a customer's name and national ID to set up an account.
 Deposit & Withdraw: Perform basic banking operations with real-time state updates.
